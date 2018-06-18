@@ -9,7 +9,6 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 /**
  * 程序的入口，负责启动应用
  * @author liuyazhuang
- *==================
  */
 public class Main {
 
